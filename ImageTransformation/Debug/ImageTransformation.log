@@ -1,0 +1,4 @@
+﻿  ImageTransform.cpp
+D:\dev\Cpp\ImageTransformation\ImageTransform.cpp(143,28): warning C4018: '<': signed/unsigned mismatch
+D:\dev\Cpp\ImageTransformation\ImageTransform.cpp(144,32): warning C4018: '<': signed/unsigned mismatch
+  ImageTransformation.vcxproj -> D:\dev\Cpp\ImageTransformation\Debug\ImageTransformation.exe

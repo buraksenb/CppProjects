@@ -1,0 +1,2 @@
+D:\dev\Cpp\ImageTransformation\Debug\ImageTransformation.exe
+D:\dev\Cpp\ImageTransformation\Debug\ImageTransformation.pdb
