@@ -108,9 +108,8 @@ PNG illinify(PNG image) {
 
             HSLAPixel& pixel = image.getPixel(x, y);
             auto orgdss = abs(pixel.h - 11) < abs(pixel.h - 371) ? abs(pixel.h - 11) : abs(pixel.h - 371);
-            auto bluedss = abs(pixel.h - 216) < abs(pixel.h - 371) ? abs(pixel.h - 11) : abs(pixel.h - 371);
+            auto bluedss = abs(pixel.h - 216);
 
-            %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%555553q24asxc
         	if(orgdss < bluedss)
         	{
                 pixel.h = 11; 
